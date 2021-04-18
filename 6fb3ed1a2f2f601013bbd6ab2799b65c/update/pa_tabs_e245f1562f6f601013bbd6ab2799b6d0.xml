@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_tabs">
+    <pa_tabs action="INSERT_OR_UPDATE">
+        <canvas_page display_value="PA System Administratio - New Tab">2e45f1562f6f601013bbd6ab2799b6cd</canvas_page>
+        <name>System Administratio - New Tab</name>
+        <page display_value="PA System Administratio - New Tab">e645f1562f6f601013bbd6ab2799b6cc</page>
+        <sys_class_name>pa_tabs</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-18 11:19:18</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>e245f1562f6f601013bbd6ab2799b6d0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>System Administratio - New Tab</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="IPLookup" source="x_538697_iplookup">6fb3ed1a2f2f601013bbd6ab2799b65c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IPLookup">6fb3ed1a2f2f601013bbd6ab2799b65c</sys_scope>
+        <sys_update_name>pa_tabs_e245f1562f6f601013bbd6ab2799b6d0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-18 11:19:18</sys_updated_on>
+    </pa_tabs>
+</record_update>
